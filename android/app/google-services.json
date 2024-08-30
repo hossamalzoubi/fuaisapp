@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080797518811",
+    "project_id": "inventory-management-fuais",
+    "storage_bucket": "inventory-management-fuais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080797518811:android:2e26955de7d851c4abe5fe",
+        "android_client_info": {
+          "package_name": "com.example.inventory_managemen_fuais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080797518811-ctau466raa9cqa472bda9soh3l67tsqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB325QE8CgDTs5uNjmjJHHYulkNyNK3sIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080797518811-ctau466raa9cqa472bda9soh3l67tsqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
