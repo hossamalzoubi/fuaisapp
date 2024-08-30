@@ -1,4 +1,4 @@
-# inventory_managemen_fuais
+# management inventory app android
 
 A new Flutter project.
 
